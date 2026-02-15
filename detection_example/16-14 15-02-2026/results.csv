@@ -1,0 +1,30 @@
+source_type,source_name,frame,item_class,confidence_score
+nir_image,gawno_nir.jpg,-,defects,2
+image,apple.jpg,-,rotten apple,0.80
+image,apple.jpg,-,rotten apple,0.85
+image,apple.jpg,-,rotten apple,0.50
+image,apple.jpg,-,rotten apple,0.65
+image,apple3.jpg,-,rotten apple,0.92
+image,banan2.jpg,-,rotten banana,0.81
+image,banan2.jpg,-,rotten banana,0.50
+image,banan2.jpg,-,rotten banana,0.49
+image,broccoli.png,-,rotten cucumber,0.84
+image,broccoli2.png,-,rotten cucumber,0.61
+image,broccoli2.png,-,rottenbellpepper,0.45
+image,carrot2.png,-,rotten carrot,0.77
+image,carrot2.png,-,rotten carrot,0.53
+image,cucumber.jpg,-,rotten cucumber,0.78
+image,jabłko.png,-,rotten apple,0.62
+image,leeche.jpg,-,rotten orange,0.81
+image,leeche.jpg,-,rotten potato,0.68
+image,leeche.jpg,-,rotten orange,0.83
+image,leeche.jpg,-,rotten potato,0.57
+image,mandarin.png,-,rotten orange,0.92
+image,mandarin4.jpg,-,rotten orange,0.61
+image,orange.png,-,rotten apple,0.67
+image,orange.png,-,rotten orange,0.56
+image,orange.png,-,rotten apple,0.88
+image,orange.png,-,rotten apple,0.94
+image,test.png,-,rotten orange,0.42
+image,tomat.jpg,-,rotten orange,0.43
+image,tomat2.jpg,-,rotten apple,0.58
